@@ -1,0 +1,28 @@
+- profile:
+  initials: SS
+  name: Sumesh Sharma
+  profession: Data Engineer
+  image: images/profile.jpg
+  location: San Diego, CA, USA
+  relocation: false
+  company: Mulesoft, a Salesforce Company
+  for_hire: false
+  focus: Developing Scalable, Secure Data Pipelines
+  focus_url: https://gatsbyjs.org
+  about: |
+    4 years of experience as a data engineer wearing multiple hats, with experience in the entire ELT process from data platform design to designing data security and governance solutions that scale with large organizations.
+
+    Currently working on: centralized RBAC security on Snowflake, self-service data intake infrastructure, building out ELT platforms as a service for internal users.
+  skills:
+    - Big Data ELT Development
+    - Data Security
+    - Data Governance
+  tools:
+    - Python
+    - SQL
+    - Scala
+  budget:
+    currency: $
+    min: 5
+    max: 30
+    default: 10
