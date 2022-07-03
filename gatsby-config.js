@@ -12,6 +12,5 @@ module.exports = {
         theme: "dark-blue",
       },
     },
-    "gatsby-plugin-image"
   ],
 }
