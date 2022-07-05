@@ -6,6 +6,7 @@ module.exports = {
     // formspreeEndpoint: "https://formspree.io/f/{your-id}",
   },
   plugins: [
+    `gatsby-plugin-sharp`,
     {
       resolve: "@wkocjan/gatsby-theme-intro",
       options: {
